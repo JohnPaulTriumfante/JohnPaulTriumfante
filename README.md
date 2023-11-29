@@ -33,7 +33,7 @@ I am passionate about coding and have a strong background in database management
 ## Connect with Me
 
 - **LinkedIn:** [LinkedIn Profile](LinkedIn_Profile_Link)
-- **Email:** juandelacruz@gmail.com
+- **Email:** jampol.triumfante@gmail.com
 
 Feel free to reach out if you want to discuss coding, databases, or anything tech-related. Let's connect!
 
